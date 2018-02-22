@@ -1,0 +1,14 @@
+p{
+    border-radius: 10px;
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    border: 2px solid blue;
+}
+.cssid{
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    box-shadow: 10px 10px 5px #FFccFF;<!--依次的意思为：向右移动10个像素，向下移动10个像素，阴影透明度，颜色-->
+}
