@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.container{
+    margin:100px;
+}
+.bd{
+    border-style:dotted ;
+}
+.pd{
+    padding: 10px;
+}
+.content{
+    background-color: #FFccFF;
+}
+.container1{
+    margin:100px;<!-- 当变为小于100，则边距叠加的距离遵循较大的距离。即此处若变成50，则合并后的距离为100-->
+}
+.bd1{
+    border-style:dotted ;
+
+}
+.pd1{
+    padding: 10px;
+}
+.content1{
+    background-color: #FFccFF;
+}
