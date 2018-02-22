@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+m.container{
+    margin:10px;
+}
+.bd{
+    border-style:dotted ;
+
+}
+.pd{
+    padding: 10px;
+}
+.content{
+    background-color: #FFccFF;
+    text-align: center;
+
+}
